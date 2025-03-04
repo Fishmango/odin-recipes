@@ -14,3 +14,19 @@
     font-size: 24px;
 }
 
+ul.a,
+ul.b {
+    list-style-type: circle;
+    font-size: 16px;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ul.a {
+    color: white;
+}
+  
+ul.b {
+    color: blue;
+}
+
