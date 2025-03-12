@@ -1,5 +1,16 @@
 /* Style.css */
 
+/* Page format 
+.mainpage {
+    background-color: black;
+}
+
+.subpage {
+    background-color: aquamarine;
+}
+*/
+
+/* main page text color and format */
 .title,
 .subtitle {
     color: white;
@@ -14,6 +25,7 @@
     font-size: 24px;
 }
 
+/* Dungeon and Raid List format */
 ul.a,
 ul.b {
     list-style-type: circle;
@@ -27,6 +39,6 @@ ul.a {
 }
   
 ul.b {
-    color: blue;
+    color: whitesmoke;
 }
 
